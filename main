@@ -306,7 +306,7 @@ INSERT INTO public.moon VALUES (12, 'Synth', 156, 'Oxygen', 11, false);
 INSERT INTO public.moon VALUES (13, 'Bella', 200, 'Carbon', 12, false);
 INSERT INTO public.moon VALUES (14, 'Ed', 72, 'Magnesium', 10, true);
 INSERT INTO public.moon VALUES (15, 'Sam', 134, 'Nitrogen', 12, false);
-INSERT INTO public.moon VALUES (4, 'Valor', 789, 'Chrome', 1, true);
+INSERT INTO public.moon VALUES (4, 'Valen', 789, 'Chrome', 1, true);
 INSERT INTO public.moon VALUES (16, 'Hawking', 83, 'Platinum', 6, true);
 INSERT INTO public.moon VALUES (17, 'Camille', 129, 'Neodymium', 1, true);
 INSERT INTO public.moon VALUES (18, 'Django', 407, 'Lead', 2, true);
@@ -331,7 +331,7 @@ INSERT INTO public.planet VALUES (10, 'Apollo', 130, 32.6, true, true, NULL, 7);
 INSERT INTO public.planet VALUES (11, 'Zeta', 322, 8.2, false, true, NULL, 6);
 INSERT INTO public.planet VALUES (12, 'Red', 289, 28.9, false, true, NULL, 6);
 INSERT INTO public.planet VALUES (5, 'Dawn', 222, 8.2, false, false, NULL, 5);
-INSERT INTO public.planet VALUES (6, 'Feynman', 189, 22.2, false, true, NULL, 5);
+INSERT INTO public.planet VALUES (6, 'Ellisse', 189, 22.2, false, true, NULL, 5);
 
 
 --
@@ -342,7 +342,7 @@ INSERT INTO public.star VALUES (1, 'Cronus', 500, 'Bright small star, able to ho
 INSERT INTO public.star VALUES (3, 'Calypso', 1298, 'Bright small star, with large goldilocks zones for life', 'Red Dwarf', 7);
 INSERT INTO public.star VALUES (5, 'Ouroboros', 400, NULL, 'White dwarf', 4);
 INSERT INTO public.star VALUES (6, 'Bertadillo', 424, 'small star with not much light given off', 'white dwarf', 1);
-INSERT INTO public.star VALUES (7, 'Nayeli', 300, 'medium star with large habitable zones for planets', 'Yellow dwarf', 5);
+INSERT INTO public.star VALUES (7, 'Randy', 300, 'medium star with large habitable zones for planets', 'Yellow dwarf', 5);
 INSERT INTO public.star VALUES (8, 'Azu', 300, 'Large star with large habitable zones for several planets to foster life', 'Yellow dwarf', 8);
 
 
